@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mozziewipe-6eaca",
+  "private_key_id": "18fd6f2f3fab256e95cffed0b6f3c228cde0d95f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRpIc9xF2VOjzO\neFDVIrLAhpYTath5xgFQmHn1C1UNdLoEd83MwGAUH1z9o1Auipg6ilgLUyysHAR8\njBMj6E0kGXJkSfQTD+JwIIRSpp+Ll4gxprIPry75BsLT5PezYZaggtyd1atESZN3\n1aTlwD1aMHYErS4Y/Sh4wyEcd5ozyGg8yheorvPdK5O5FoqKwkjlsYDP2tD5Xm9L\nWzMM8EhI2O4zP+y344VuRdvihMcPxJTYKRm8QlVFay83Zwj1rvaL0TyNmqFznTwE\nAjJdKcOIV0U405cT6cT0j3iHAiDcWSJeZJmaFppepnlE8zQ6ntOxhhgyngZSdMs/\n457isIHpAgMBAAECggEAb0JPGAPH2rOuo7EMzSB+F1kV+rYgrvfbqMdTKi5adCq3\nsjlWukx6cRN4CZALtLePNLpJIbGBqtGvu92nJs5ZakgrAniRFTC/7twC/c46LB4+\nhINASryhRD5HVadVohivlP3+UbGdFD+sCNQUkG4m4V+IstCp/08TlIuSXgZHiyTh\nJ6YFIagTQmHE1Hmtenz1rpsVP8aYWM/LrSFv4R7NFib46+eFmmRM527sjYNIcu9N\nUjQ7r8wfrsX9aZZfvH/oCfO5mmrV5GgSRpg2JNzSIESyA8nvbNNVBoic0+smBFPC\nJSjCfHe780+XYNJIoo5ZyrGbCUtXcDx3Mvtz6JZW9QKBgQD64rNjlE5KXvq0BB+p\njU9tISfjDySloomy1jgg/2ts3DCjtYjHp5UB1KJZB7JX+8fBfWEPAjzZ0loakcCN\nyK4umqMjh0HLKgAZ1pVpdIxJCJRNpXLX15QLUm4YtHLXgPzN5Iw8RSTjZshT54bq\ndzd1O7cNTBG8nOT0S+88txpMewKBgQDV6pfMTgtZV8Mqmppu7tevv6ySUNuPFWG9\n8eTYm83XOrlyiECNHhI88V4tRdt3Hw8z1mx3ISfpDZWyqXbsceupBbl593974tWT\nLuaZsQe13Av+itj/qZnU2lRIepx2R+iwLdXsbgx3azFkyTP0wokOAQTxwEObRbM7\neiiEf6PX6wKBgQDz2XLI3/Y0nRqJ69QmhX3ksSxGqopRH6k9FK/biscMOPxhsmlu\nvXi8HcNqS2vRzpw6ebXj06X3hVgkqPQCG0MJcy4Ls0SExp7wfjwdErXjqp4S1jPI\njPWNB6KRCprw0aNmL7UKQ552FImz276rmBJkNRVXrE81Bz4WINQ4LDQ4jwKBgD1l\nma//7m30LIX73btdPfapcuSD5KCKqIUV+nLZNRlDN5rR1IUsTlvDgx5HYJguB/T+\n5B7FG2lehsrCrOlsQRFAHV4OVT6/ekFGQtV15BqkT6T9QQ8QJKDdETfESUgBl52J\nak7zvww/bevZe9oSQ7gLPtoMLttQBANcKmjtIZ+FAoGAdlYfFWi0xYIEVKKtJiT/\npDpUbYZ3GShRAPR71p2mV5kzWXh/WuVhTRh7GUawNEtydg0iqGCdr1/W9H/PpAd9\nOIYwN/jKUuZs09LwZkKelXBxU9n+30NHKM/jz1zjuPl/9BOmhH+fcyxv8kPKb75h\nZJ5Nu0ySYyTI0hdv+HZodvA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mozziewipe-container@mozziewipe-6eaca.iam.gserviceaccount.com",
+  "client_id": "102781005820677654876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mozziewipe-container%40mozziewipe-6eaca.iam.gserviceaccount.com"
+}
